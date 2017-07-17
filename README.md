@@ -3,11 +3,9 @@
 # myCollection
 collect any useful infomation
 ***
-## nginx 常用命令 
-http://www.2cto.com/os/201303/195402.html - 脚本之家.
+## [nginx 常用命令](http://www.2cto.com/os/201303/195402.html "来自脚本之家")
 
-## markdown语法
-http://wowubuntu.com/markdown/#link
+## [markdown语法](http://wowubuntu.com/markdown/#link "快速索引")
 
 * 区块元素
 >- 段落和换行， 至少一个空行为换行；
@@ -25,6 +23,7 @@ http://wowubuntu.com/markdown/#link
 
 [bdId]: https.baidu.com "百度搜索"
 
-## Mac版 webstorm快捷键
-https://www.magentonotes.com/webstorm-mac-shortcut.html
+## [Mac版 webstorm快捷键](https://www.magentonotes.com/webstorm-mac-shortcut.html "快速上手")
+
+## [Bootstrap可视化布局](http://www.bootcss.com/p/layoutit/ "自定义配置样式")
 
