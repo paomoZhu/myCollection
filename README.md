@@ -27,3 +27,4 @@ collect any useful infomation
 
 ## [Bootstrap可视化布局](http://www.bootcss.com/p/layoutit/ "自定义配置样式")
 
+## [如何打造自己的专属blog？](http://blog.csdn.net/on_1y/article/details/19259435 "千里之行，始于足下")
