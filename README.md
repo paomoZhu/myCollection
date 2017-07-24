@@ -31,4 +31,4 @@ collect any useful infomation
 
 ## 常用文件命令
 
--> 删除某个文件： rm -rf + [文件名]
+>- 删除某个文件： rm -rf + [文件名]
