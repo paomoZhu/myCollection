@@ -36,3 +36,5 @@ collect any useful infomation
 ### [npm 包集合](https://www.npmjs.com/package/package "各种package")
 
 ### [gulp 中文文档](http://www.gulpjs.com.cn/docs/api/ "自动化")
+
+### [globs 语法](https://github.com/isaacs/node-glob "文件匹配语法")
