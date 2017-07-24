@@ -1,11 +1,11 @@
 [百度](https:www.baidu.com "百度搜索")
 
-# myCollection
+## myCollection
 collect any useful infomation
 ***
-## [nginx 常用命令](http://www.2cto.com/os/201303/195402.html "来自脚本之家")
+### [nginx 常用命令](http://www.2cto.com/os/201303/195402.html "来自脚本之家")
 
-## [markdown语法](http://wowubuntu.com/markdown/#link "快速索引")
+### [markdown语法](http://wowubuntu.com/markdown/#link "快速索引")
 
 * 区块元素
 >- 段落和换行， 至少一个空行为换行；
@@ -23,12 +23,14 @@ collect any useful infomation
 
 [bdId]: https.baidu.com "百度搜索"
 
-## [Mac版 webstorm快捷键](https://www.magentonotes.com/webstorm-mac-shortcut.html "快速上手")
+### [Mac版 webstorm快捷键](https://www.magentonotes.com/webstorm-mac-shortcut.html "快速上手")
 
-## [Bootstrap可视化布局](http://www.bootcss.com/p/layoutit/ "自定义配置样式")
+### [Bootstrap可视化布局](http://www.bootcss.com/p/layoutit/ "自定义配置样式")
 
-## [如何打造自己的专属blog？](http://blog.csdn.net/on_1y/article/details/19259435 "千里之行，始于足下")
+### [如何打造自己的专属blog？](http://blog.csdn.net/on_1y/article/details/19259435 "千里之行，始于足下")
 
-## 常用文件命令
+### 常用文件命令
 
 >- 删除某个文件： rm -rf + [文件名]
+
+### npm 包集合
