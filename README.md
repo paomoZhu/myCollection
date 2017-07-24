@@ -34,3 +34,5 @@ collect any useful infomation
 >- 删除某个文件： rm -rf + [文件名]
 
 ### [npm 包集合](https://www.npmjs.com/package/package "各种package")
+
+### [gulp 中文文档](http://www.gulpjs.com.cn/docs/api/ "自动化")
