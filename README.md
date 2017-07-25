@@ -38,3 +38,5 @@ collect any useful infomation
 ### [gulp 中文文档](http://www.gulpjs.com.cn/docs/api/ "自动化")
 
 ### [globs 语法](https://github.com/isaacs/node-glob "文件匹配语法")
+
+### [vim 命令合集](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html "各种vim操作")
