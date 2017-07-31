@@ -40,3 +40,5 @@ collect any useful infomation
 ### [globs 语法](https://github.com/isaacs/node-glob "文件匹配语法")
 
 ### [vim 命令合集](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html "各种vim操作")
+
+### [伯乐在线 前端](http://web.jobbole.com/ "前端技术")
